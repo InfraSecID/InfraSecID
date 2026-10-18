@@ -1,74 +1,59 @@
 ## Hi there 👋
-# 🛡️ InfraSec ID
+# InfraSec ID
 
-**Infrastructure & Security Indonesia** — Open community for **IT Infrastructure** & **Cybersecurity**.
+**Software Engineer · AI & DevOps Enthusiast**
 
----
-
-## 🎯 About
-Collaboration hub for practitioners, enthusiasts, and beginners in:
-
-- 🖥️ **Infrastructure** — Networking, SysAdmin, Cloud, DevOps, Containerization
-- 🔐 **Security** — Offensive & Defensive, Blue Team, Red Team
-- 📚 **Knowledge Sharing** — Write-ups, tutorials, tooling, open discussions
-
-> *"Learn together, secure together."*
+Building scalable applications, automating infrastructure, and exploring artificial intelligence.
 
 ---
 
-## 🧰 Focus Topics
+### 🛠️ Core Stack
 
-| Category | Scope |
-|----------|-------|
-| **Infrastructure** | Linux, Networking, Docker, Kubernetes, Cloud |
-| **DevOps** | CI/CD, IaC, Monitoring, Automation |
-| **Offensive Security** | Pentest, CTF, Red Teaming |
-| **Defensive Security** | Blue Team, SOC, Incident Response |
-| **Forensics & Malware** | DFIR, Reverse Engineering |
-| **Governance** | ISO 27001, NIST, Compliance |
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, TypeScript, Go |
+| **DevOps & Cloud** | Docker, Kubernetes, AWS, Terraform, CI/CD |
+| **AI & Data** | OpenAI, LangChain, PyTorch, Pandas |
+| **Backend** | Node.js, FastAPI, PostgreSQL, Redis |
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfraSec-ID&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfraSec-ID&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=InfraSecID&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfraSecID&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfraSec-ID&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=InfraSecID&theme=radical&hide_border=true" height="170" alt="Streak" />
 </p>
 
 ---
 
-## 📂 Repositories
+### 🤝 Collaboration & Join Us
 
-> *Coming soon — being curated.*
+I am always open to collaborating on open-source projects, AI research, or DevOps automation. Let's build something impactful together.
 
-- 📖 `infrasec-roadmap` — Learning roadmap from scratch
-- 🧪 `infrasec-labs` — Hands-on labs & environments
-- 📝 `infrasec-writeups` — CTF write-ups & security research
-- 🛠️ `infrasec-tools` — Community-built tools & scripts
-
----
-
-## 🤝 Join Us
-
-- 💬 **GitHub Discussions** — Q&A & diskusi
-- 🐛 **Issues** — Report / ide
-- 🔧 **Pull Request** — Kontribusi
-- ⭐ **Star** repo yang bermanfaat
+- 💬 **Discussions**: Feel free to start a conversation in [GitHub Discussions](https://github.com/InfraSecID/InfraSecID/discussions).
+- 🐛 **Issues**: Found a bug or have an idea? Open an [Issue](https://github.com/InfraSecID/InfraSecID/issues).
+- 🔧 **Pull Requests**: Contributions are always welcome. Fork, commit, and submit a PR.
+- ⭐ **Support**: If you find my work useful, consider starring the repositories.
 
 ---
 
-## ⚠️ Disclaimer
+### 📫 Contact
 
-All content is for **educational purposes & legitimate security research only**. We are not responsible for any misuse.
+- **GitHub**: [github.com/InfraSecID](https://github.com/InfraSecID)
+- **Email**: *(available upon request)*
 
 ---
 
-## 📫 Contact
+### ⚠️ Disclaimer
 
-- GitHub: [@InfraSec-ID](https://github.com/InfraSec-ID)
-- Email: *(coming soon)*
+All content, code, and materials published on this profile are for **educational and research purposes only**. I am not responsible for any misuse, damage, or illegal activities conducted with the provided materials. Always ensure compliance with applicable laws and ethical standards.
+
+---
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
