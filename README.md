@@ -45,7 +45,7 @@ I am always open to collaborating on open-source projects, AI research, or DevOp
 ### 📫 Contact
 
 - **GitHub**: [github.com/InfraSecID](https://github.com/InfraSecID)
-- **Email**: *(available upon request)*
+- **Email**: marlin.hidayat7780@gmail.com
 
 ---
 
