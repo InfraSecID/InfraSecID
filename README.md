@@ -65,7 +65,7 @@ I’m a software engineer focused on building reliable systems, automating cloud
 ## Featured Projects
 
 | Project | Description | Stack |
-| | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | [**apiquota**](https://github.com/InfraSecID/apiquota) | Secure multi-provider API quota monitor & alert SaaS with encryption-focused design | TypeScript, Prisma, React |
 | [**CodeX**](https://github.com/InfraSecID/CodeX) | Offline AI coding assistant powered by Ollama + DeepSeek in a Docker sandbox | Shell, Docker |
 | [**yaracop**](https://github.com/InfraSecID/yaracop) | YARA-based malware scanner with ML detection and Wazuh integration | Python |
