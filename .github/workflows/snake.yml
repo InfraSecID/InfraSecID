@@ -1,0 +1,30 @@
+name: Generate Neon Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Jalan tiap hari jam 12 malam
+  workflow_dispatch: # Biar bisa lo jalanin manual
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Wajib biar bisa nulis ke branch output
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate Neon Green Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake-neon.svg?color_snake=#39FF14&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-snake-neon-dark.svg?color_snake=#39FF14&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+      
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
