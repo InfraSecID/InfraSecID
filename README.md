@@ -65,7 +65,7 @@ I’m a software engineer focused on building reliable systems, automating cloud
 ## Featured Projects
 
 | Project | Description | Stack |
-| :--- | :--- | :--- |
+| | :--- | :--- | :--- |
 | [**apiquota**](https://github.com/InfraSecID/apiquota) | Secure multi-provider API quota monitor & alert SaaS with encryption-focused design | TypeScript, Prisma, React |
 | [**CodeX**](https://github.com/InfraSecID/CodeX) | Offline AI coding assistant powered by Ollama + DeepSeek in a Docker sandbox | Shell, Docker |
 | [**yaracop**](https://github.com/InfraSecID/yaracop) | YARA-based malware scanner with ML detection and Wazuh integration | Python |
@@ -122,7 +122,8 @@ I’m open to collaboration on open-source projects, AI research, and DevOps aut
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="InfraSecID" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/InfraSecID/InfraSecID/output/github-snake-neon-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/InfraSecID/InfraSecID/output/github-snake-neon.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/InfraSecID/InfraSecID/output/github-snake-neon.svg" />
 </picture>
 
