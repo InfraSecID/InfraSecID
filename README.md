@@ -121,6 +121,13 @@ I’m open to collaboration on open-source projects, AI research, and DevOps aut
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-neon-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-neon.svg" />
+</picture>
+
+---
+
 <div align="center">
   <i>"Build systems that outlive the hype."</i>
 </div>
