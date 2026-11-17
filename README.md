@@ -85,14 +85,10 @@ I’m a software engineer focused on building reliable systems, automating cloud
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InfraSecID&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfraSecID&layout=compact&theme=radical&hide_border=true&langs_count=6" height="170" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InfraSecID&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InfraSecID&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=InfraSecID&theme=radical&hide_border=true" height="170" alt="Contribution Streak" />
-</p>
+![Contribution Streak](https://streak-stats.demolab.com/?user=InfraSecID&theme=radical&hide_border=true)
 
 ---
 
